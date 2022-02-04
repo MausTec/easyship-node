@@ -23,6 +23,7 @@
     "node": ">= 8"
   },
   "main": "lib/easyship.js",
+  "types": "lib/easyship.d.ts",
   "devDependencies": {
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
